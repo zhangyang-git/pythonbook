@@ -1,2 +1,2 @@
 # pythonbook
-some books for lean python
+this is other books for lean shell
